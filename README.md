@@ -30,7 +30,8 @@ num2 = temp
 print("Swapped values are:",num1,num2)
 ```
 ## Output
-![label](/image.jpg)
+
+![Exp-1a CR Swapping of two variables_ Attempt review - Google Chrome 15-06-2023 08_56_47 (2)](https://github.com/saravanan2607/Swapping-two-values/assets/121395849/0a551feb-194b-456c-97ef-0cf79d450f6c)
 
 
 
