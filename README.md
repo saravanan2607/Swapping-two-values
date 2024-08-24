@@ -22,8 +22,8 @@ End the program
 ## PROGRAM:
 ```
 #Program to swap two values.
-#Developed by: C.Saravanan
-#RegisterNumber: 22008175
+#Developed by: Saravanan C
+#RegisterNumber: 212222110041
 num1 = int(input())
 num2 = int(input())
 temp = num1
